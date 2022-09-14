@@ -1,0 +1,14 @@
+*{
+    background-color: rgba(134, 141, 179, 0.062);
+}
+html {
+    scroll-behavior: smooth;
+  }
+
+.subtitle{
+    font-weight: bold;
+}
+
+.programming-languages i{
+    font-size: 8em;
+}
